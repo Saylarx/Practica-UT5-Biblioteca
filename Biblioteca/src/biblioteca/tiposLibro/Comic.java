@@ -6,6 +6,8 @@ import biblioteca.Libro;
  * @author megin
  */
 public class Comic extends Libro {
+	
+	//los comics tan bien
 
 	private String ilustrador;
 
