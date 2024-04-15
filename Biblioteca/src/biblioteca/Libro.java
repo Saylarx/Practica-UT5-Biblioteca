@@ -79,7 +79,7 @@ public class Libro {
 	/**
 	 * Getter del titulo
 	 * 
-	 * @return La feca de la publicacion del libro
+	 * @return La fecha de la publicacion del libro
 	 * @since 1.0
 	 */
 	public int getAnyoPublicacion() {
